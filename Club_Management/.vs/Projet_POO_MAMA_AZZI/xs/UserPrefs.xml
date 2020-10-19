@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{8C441F9D-8EEC-4411-8A10-BDC60AC4B602}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
+    <Files>
+      <File FileName="Club.cs" Line="23" Column="6" />
+      <File FileName="Personne.cs" />
+      <File FileName="Membre.cs" />
+      <File FileName="Entraineur.cs" />
+      <File FileName="Competition.cs" />
+      <File FileName="Evenements.cs" />
+      <File FileName="Salarie.cs" />
+      <File FileName="EquipeSimple.cs" />
+      <File FileName="EquipeDouble.cs" />
+      <File FileName="Program.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Projet_POO_MAMA_AZZI" expanded="True">
+            <Node name="Projet_POO_MAMA_AZZI" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Projet__POO__MAMA__AZZI PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

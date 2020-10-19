@@ -1,0 +1,11 @@
+/Users/ulrichgombeke/Documents/Projet Final POO/Club_De_Tennis/Projet_POO_MAMA_AZZI/obj/Debug/netcoreapp3.0/Projet_POO_MAMA_AZZI.csprojAssemblyReference.cache
+/Users/ulrichgombeke/Documents/Projet Final POO/Club_De_Tennis/Projet_POO_MAMA_AZZI/obj/Debug/netcoreapp3.0/Projet_POO_MAMA_AZZI.AssemblyInfoInputs.cache
+/Users/ulrichgombeke/Documents/Projet Final POO/Club_De_Tennis/Projet_POO_MAMA_AZZI/obj/Debug/netcoreapp3.0/Projet_POO_MAMA_AZZI.AssemblyInfo.cs
+/Users/ulrichgombeke/Documents/Projet Final POO/Club_De_Tennis/Projet_POO_MAMA_AZZI/bin/Debug/netcoreapp3.0/Projet_POO_MAMA_AZZI
+/Users/ulrichgombeke/Documents/Projet Final POO/Club_De_Tennis/Projet_POO_MAMA_AZZI/bin/Debug/netcoreapp3.0/Projet_POO_MAMA_AZZI.deps.json
+/Users/ulrichgombeke/Documents/Projet Final POO/Club_De_Tennis/Projet_POO_MAMA_AZZI/bin/Debug/netcoreapp3.0/Projet_POO_MAMA_AZZI.runtimeconfig.json
+/Users/ulrichgombeke/Documents/Projet Final POO/Club_De_Tennis/Projet_POO_MAMA_AZZI/bin/Debug/netcoreapp3.0/Projet_POO_MAMA_AZZI.runtimeconfig.dev.json
+/Users/ulrichgombeke/Documents/Projet Final POO/Club_De_Tennis/Projet_POO_MAMA_AZZI/bin/Debug/netcoreapp3.0/Projet_POO_MAMA_AZZI.dll
+/Users/ulrichgombeke/Documents/Projet Final POO/Club_De_Tennis/Projet_POO_MAMA_AZZI/bin/Debug/netcoreapp3.0/Projet_POO_MAMA_AZZI.pdb
+/Users/ulrichgombeke/Documents/Projet Final POO/Club_De_Tennis/Projet_POO_MAMA_AZZI/obj/Debug/netcoreapp3.0/Projet_POO_MAMA_AZZI.dll
+/Users/ulrichgombeke/Documents/Projet Final POO/Club_De_Tennis/Projet_POO_MAMA_AZZI/obj/Debug/netcoreapp3.0/Projet_POO_MAMA_AZZI.pdb

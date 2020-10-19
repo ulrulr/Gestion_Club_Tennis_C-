@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "Projet_POO_MAMA_AZZI/1.0.0": {
+        "runtime": {
+          "Projet_POO_MAMA_AZZI.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Projet_POO_MAMA_AZZI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
